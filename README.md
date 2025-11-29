@@ -1,0 +1,2 @@
+# Windows-Text-Editor
+Text editor made in C using the Windows API; inspired by the following kilo-based tutorial - https://viewsourcecode.org/snaptoken/kilo/index.html.
